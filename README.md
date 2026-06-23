@@ -1,4 +1,11 @@
-## Hi there 👋
+## Israel Galvez 
+
+**'Professional and Analytical'**
+**'"Hello World" :) '**
+
+I am a professional with over 12 years of experience supporting operations and billing and throughout my career I have built a strong foundation in data analysis with technical skills that are always being developed. I have used these skills to advance operational objectives but most importantly because I love learning new skills. 
+
+This is my little corner in GitHub to store and showcase some of my ever expanding skillsets and projects.
 
 <!--
 **Israel-IG05/Israel-IG05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
