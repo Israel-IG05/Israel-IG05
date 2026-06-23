@@ -1,7 +1,6 @@
-## Israel Galvez 
+# Israel_G
 
-**'Professional and Analytical'**
-**'"Hello World" :) '**
+**'Analytical & Forward Thinking'**
 
 I am a professional with over 12 years of experience supporting operations and billing and throughout my career I have built a strong foundation in data analysis with technical skills that are always being developed. I have used these skills to advance operational objectives but most importantly because I love learning new skills. 
 
