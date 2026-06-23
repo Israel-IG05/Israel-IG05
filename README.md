@@ -8,6 +8,14 @@ I have used these skills to advance operational objectives but most importantly 
 
 This is my little corner in GitHub to store and showcase some of my ever expanding skillsets and projects.
 
+Some of the tools that I have learned and have experience are:
+  - MS Excel
+  - SQL
+  - Power BI
+  - Tableau
+  - Visio
+  - Balsamiq
+
 Fun Fact:
   - I love playing guitar 
 
